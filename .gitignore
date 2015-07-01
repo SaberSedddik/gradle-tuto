@@ -15,4 +15,5 @@ hs_err_pid*
 *.ipr
 *.iws
 
+.gradle
 .DS_Store
